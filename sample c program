@@ -3,5 +3,5 @@
 main()
 
 {
-Hello to CMRIT
+Printf(Hello to CMRIT);
 }
